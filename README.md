@@ -12,8 +12,6 @@
 
 <p align="center">
   <a href="https://github.com/Snownaaya">
-    <img src="https://img.shields.io/badge/GitHub-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <img src="https://img.shields.io/badge/Unity-171923?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-171923?style=for-the-badge&logo=csharp&logoColor=9B72CF" alt="C Sharp" />
   <img src="https://img.shields.io/badge/Go-171923?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
