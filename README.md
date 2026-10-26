@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/C%23-171923?style=for-the-badge&logo=csharp&logoColor=9B72CF" alt="C Sharp" />
   <img src="https://img.shields.io/badge/Go-171923?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
   <img src="https://img.shields.io/badge/Arch_Linux-171923?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" />
+  <a href="https://github.com/Snownaaya">
+  <img src="https://img.shields.io/badge/GitHub-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-171923?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
 </p>
 
 ---
